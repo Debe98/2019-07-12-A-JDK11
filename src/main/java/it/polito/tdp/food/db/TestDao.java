@@ -1,5 +1,6 @@
 package it.polito.tdp.food.db;
 
+/*
 public class TestDao {
 
 	public static void main(String[] args) {
@@ -16,3 +17,4 @@ public class TestDao {
 	}
 
 }
+*/
